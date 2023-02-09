@@ -1,1 +1,1 @@
-Didnt nkow i was fcking supposed to create a readme for each directory
+1.The script in in the file 0-iam_betty changes ownership/user to Betty
