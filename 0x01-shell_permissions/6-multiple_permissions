@@ -1,2 +1,2 @@
 #!/bin/bash
-check 4 code
+chmod ug+x,o+r hello
