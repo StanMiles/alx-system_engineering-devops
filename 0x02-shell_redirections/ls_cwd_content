@@ -1,0 +1,26 @@
+total 36
+drwxr-xr-x 2 root root 206 Feb 13 14:00 .
+drwxr-xr-x 6 root root 121 Feb 13 10:52 ..
+-rwxr--r-- 1 root root  32 Feb 13 11:37 0-hello_world
+-rwxr--r-- 1 root root  28 Feb 13 12:35 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 13 13:03 2-hellofile
+-rwxr--r-- 1 root root  39 Feb 13 13:12 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 13 13:23 4-lastlines
+-rwxr--r-- 1 root root  29 Feb 13 13:30 5-firstlines
+-rwxr--r-- 1 root root  49 Feb 13 13:51 6-third_line
+-rwxr--r-- 1 root root  36 Feb 13 14:00 8-cwd_state
+-rw-r--r-- 1 root root   0 Feb 13 14:02 ls_cwd_content
+-rw-r--r-- 1 root root 464 Feb 13 13:32 README.md
+total 40
+drwxr-xr-x 2 root root 206 Feb 13 14:02 .
+drwxr-xr-x 6 root root 121 Feb 13 10:52 ..
+-rwxr--r-- 1 root root  32 Feb 13 11:37 0-hello_world
+-rwxr--r-- 1 root root  28 Feb 13 12:35 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 13 13:03 2-hellofile
+-rwxr--r-- 1 root root  39 Feb 13 13:12 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 13 13:23 4-lastlines
+-rwxr--r-- 1 root root  29 Feb 13 13:30 5-firstlines
+-rwxr--r-- 1 root root  49 Feb 13 13:51 6-third_line
+-rwxr--r-- 1 root root  37 Feb 13 14:02 8-cwd_state
+-rw-r--r-- 1 root root 624 Feb 13 14:02 ls_cwd_content
+-rw-r--r-- 1 root root 464 Feb 13 13:32 README.md
